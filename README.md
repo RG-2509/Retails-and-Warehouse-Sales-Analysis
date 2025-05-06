@@ -143,6 +143,9 @@ Replaces numeric month IDs with full names for visual clarity on trend charts.
 
 ![image](https://github.com/user-attachments/assets/80b87348-4cf6-4443-afa6-f9a00509e217)
 
+![image](https://github.com/user-attachments/assets/f0ae385f-bad9-44fc-951f-a2b340fc2cc6)
+
+
 
 ---
 
